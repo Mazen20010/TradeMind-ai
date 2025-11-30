@@ -1,0 +1,5 @@
+{
+  "name": "TradeMind AI",
+  "description": "An intelligent trading assistant that analyzes market scenarios, provides Buy/Sell recommendations with institutional-grade risk management levels (SL/TP), and explains the strategy.",
+  "requestFramePermissions": []
+}
